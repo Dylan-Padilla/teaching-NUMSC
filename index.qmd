@@ -126,6 +126,10 @@ Innovative efforts to eliminate educational inequities among students at ASU (Ro
 
 ## [Project 2. Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
 
+<center>
+![](imgs/beyond-microsoft.png){width=50%}
+</center>
+
 ## [Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
 
 :::: {.columns}
