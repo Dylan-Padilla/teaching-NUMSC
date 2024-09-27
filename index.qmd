@@ -56,7 +56,7 @@ execute:
 ::: {.column width='50%'}
 <br><br>
 <center>
-![](imgs/me2.jpg){width=50%}
+![](imgs/me2.png){width=50%}
 </center>
 :::
 
