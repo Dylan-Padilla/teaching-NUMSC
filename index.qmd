@@ -1,0 +1,374 @@
+---
+title: 'Teaching philosophy'
+author: '<br>Dylan Padilla'
+institute: "Sep 27, 2024<br><br><br><img src='imgs/NE-logo.png' width=200px height=200px/><br>Department of Marine and Environmental Sciences<br>at Northeastern University in Boston, Massachusetts"
+format: 
+  revealjs:
+    chalkboard: true
+    incremental: true
+    logo: imgs/asu_logo.png
+    footer: "🔗 [https://dylanpadilla.netlify.app/](https://dylanpadilla.netlify.app/)"
+    slide-number: true
+    multiplex: true
+    theme: [simple, assets/monash.scss]
+    show-slide-number: all
+    controls: true
+    width: 1280
+    height: 720
+    css: [assets/syntax-highlight.css, assets/custom.css, assets/pacman.css]
+    header-includes: |
+      <link rel="stylesheet" href="">
+execute:
+  echo: true
+---
+
+# [A little about myself]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"} <br><br><br><br> {background='imgs/bg.jpg'}
+
+
+## [Short Biography]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+
+:::: {.columns}
+
+::: {.column width='50%'}
+<br><br>
+<center>
+![](imgs/me.jpeg){width=50%}
+</center>
+:::
+
+::: {.column width='50%'}
+<br><br>
+<center>
+- BS in Biology - UA Colombia (2016)
+- MS in Ecology and Evolution - UNIFESP Brazil (2019)
+- PhD in Evolutionary Biology - ASU United States (present)
+</center>
+:::
+
+::::
+
+## [Short Biography]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+
+:::: {.columns}
+
+::: {.column width='50%'}
+<br><br>
+<center>
+![](imgs/me2.jpg){width=50%}
+</center>
+:::
+
+::: {.column width='50%'}
+<br><br>
+<center>
+- I am fascinated by programming languages such as R, HTML, CSS, Git
+- It can help develop critical thinking, problem-solving, and analytical skills
+</center>
+:::
+
+::::
+
+
+# [Ongoing teaching projects<br><br><br><br><br><br>]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"} {background='imgs/game-theory-class.jpeg'}
+
+
+## [Project 1]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+<br><br>
+<center>
+![BIO 181: General Biology](imgs/regular-class.jpg){width=80%}
+</center>
+:::
+
+::: {.column width='50%'}
+<br><br>
+<center>
+![BIO 181: Dreamscape Learning](imgs/goggles.jpg){width=80%}
+</center>
+:::
+
+::::
+
+
+
+## [Project 1. Dreamscape Learning (BIO 181)]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+Innovative efforts to eliminate educational inequities among students at ASU (Role: TA and Quatitative Data Analyst)
+
+![](imgs/DSL1.png)<br>
+<center>
+![](imgs/DSL2.png){width=30%}
+![](imgs/DSL3.png){width=40%}
+</center>
+
+## [Dreamscape Learning: Philosophy]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+<br><br>
+
+- Students can explore completely different worlds and perform complex learning discoveries that they wouldn’t be able to do in a traditional learning environment or lab in a campus setting
+
+- Courses in DSL have five- to 10-minute video modules that are focused on specific exercises linked to the lesson
+
+
+## [Dreamscape Learning: Philosophy]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+<br><br>
+
+- Low-risk assessments used to practice and get critical feedback on the ability to do things, such as apply a concept or a skill
+
+- Assess whether the student understood and can apply what they just learned
+
+
+## [Project 2. Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+## [Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+<br>
+<img src = 'imgs/microsoft.png' width = 600 height = 380>
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<center>
+<img src = 'imgs/typst_inset.png' width = 170 height = 220>
+</center>
+
+:::
+
+::::
+
+## [Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+<br>
+<img src = 'imgs/microsoft.png' width = 600 height = 380>
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<center>
+<img src = 'imgs/typst_inset.png' width = 170 height = 220>
+<img src = 'imgs/poster_photo.png' width = 170 height = 220>
+</center>
+
+:::
+
+::::
+
+
+## [Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+<br>
+<img src = 'imgs/microsoft.png' width = 600 height = 380>
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<center>
+<img src = 'imgs/typst_inset.png' width = 170 height = 220>
+<img src = 'imgs/poster_photo.png' width = 170 height = 220>
+<img src = 'imgs/ezgif.com-video-to-gif-converter.gif' width = 140 height = 220>
+</center>
+
+:::
+
+::::
+
+
+## [Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+<br>
+<img src = 'imgs/microsoft.png' width = 600 height = 380>
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<center>
+<img src = 'imgs/typst_inset.png' width = 170 height = 220>
+<img src = 'imgs/poster_photo.png' width = 170 height = 220>
+<img src = 'imgs/ezgif.com-video-to-gif-converter.gif' width = 140 height = 220>
+<img src = 'imgs/ezgif.com-crop.gif' width = 250 height = 150>
+</center>
+:::
+
+::::
+
+
+## [Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+<br>
+<img src = 'imgs/tools.png' width = 500 height = 500>
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<center>
+<img src = 'imgs/html.png' width = 190, height = 200>
+</center> 
+
+:::
+
+::::
+
+
+## [Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+<br>
+<img src = 'imgs/tools.png' width = 500 height = 500>
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<center>
+<img src = 'imgs/html.png' width = 190 height = 200>
+<img src = 'imgs/css.png' width = 170 height = 175>
+</center> 
+
+:::
+
+::::
+
+
+## [Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+<br>
+<img src = 'imgs/tools.png' width = 500 height = 500>
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<center>
+<img src = 'imgs/html.png' width = 190 height = 200>
+<img src = 'imgs/css.png' width = 170 height = 175>
+<img src = 'imgs/typst.png' width = 150 height = 150>
+</center> 
+
+:::
+
+::::
+
+
+## [Beyond Microsoft]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<center>
+<br>
+<img src = 'imgs/tools.png' width = 500 height = 500>
+</center>
+
+:::
+
+::: {.column width='50%'}
+
+<center>
+<img src = 'imgs/html.png' width = 190 height = 200>
+<img src = 'imgs/css.png' width = 170 height = 175>
+<img src = 'imgs/typst.png' width = 150 height = 150>
+</center>
+<br><br><br>
+<center>
+<img src = 'imgs/R.png' width = 170 height = 150>
+</center> 
+
+:::
+
+::::
+
+
+## [This is what it looks like]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+
+<center>
+<img src = 'imgs/trailer2-ezgif.com-effects.gif' width = 300 height = 520/>
+<img src = 'imgs/trailer3-ezgif.com-effects.gif' width = 300 height = 520/>
+</center> 
+
+## [Beyond Microsoft: Philosophy]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+<br>
+
+- Have freedom in your computing
+- Encourages collaboration and sharing
+- It gives students the freedom to study, modify, and distribute the code
+
+
+## [Teaching experience]{style="font-family:Comic Sans MS;font-weight:normal;color:orange;"}
+
+<br>
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+- BIO 181 General Biology (DSL)
+- BIO 320 Fundamentals of Ecology
+- BIO 340 General Genetics
+- BIO 345 Evolution
+
+:::
+
+::: {.column width='50%'}
+
+<center>
+![](imgs/exercise.jpeg){width=60%}
+</center>
+
+:::
+
+::::
